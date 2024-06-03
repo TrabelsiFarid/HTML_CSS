@@ -1,0 +1,39 @@
+body {
+    background-color: #87CEEB;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+p {
+    font-size: 70px;
+    text-align: center;
+    font-family: Garamond, sans-serif;
+}
+
+h2 {
+    font-size: 60px;
+    text-align: right;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+a {
+    font-size: 50px;
+    color: pink;
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: underline; 
+}
+
+img {
+    width: 50%; 
+    display: block;
+    margin: 0 auto; 
+}
